@@ -1,0 +1,9 @@
+#pcard{
+    text-align: center;
+    border-bottom: 5px solid black;
+}
+
+#btn_btn-primary{
+    margin-bottom: 0px;
+    position: fixed;
+}
